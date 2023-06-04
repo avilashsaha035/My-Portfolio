@@ -564,12 +564,14 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
-footer a{
+.social-links a{
+    display: inline-block;
+    padding-top: 15px;
 	color: crimson;
 	margin: 10px;
     align-items: center;
 }
-footer a:hover{
+.social-links a:hover{
 	color: white;
 }
 
