@@ -304,9 +304,10 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 .services .serv-content .card .little-desc{
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 300;
     margin: 10px 0 7px 0;
+    text-align: justify;
 }
 .btn{
     border-radius: 7px;
