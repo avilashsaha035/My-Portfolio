@@ -222,7 +222,7 @@ section .title::after{
 }
 .about .about-content .left img{
     height: 400px;
-    width: 400px;
+    /* width: 400px; */
     object-fit: cover;
     border-radius: 6px;
 }
@@ -703,3 +703,4 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
